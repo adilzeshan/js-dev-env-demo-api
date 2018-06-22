@@ -11,11 +11,11 @@
     "express": "4.13.3"
   },
   "engines": {
-    "node": "5.6.0"
+    "node": "9.7.1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/coryhouse/js-dev-env-demo-api"
+    "url": "https://github.com/adilzeshan/js-dev-env-demo-api"
   },
   "author": "Cory House",
   "license": "MIT"
