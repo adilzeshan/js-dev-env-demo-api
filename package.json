@@ -18,5 +18,8 @@
     "url": "https://github.com/adilzeshan/js-dev-env-demo-api"
   },
   "author": "Cory House",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "compression": "^1.7.2"
+  }
 }
